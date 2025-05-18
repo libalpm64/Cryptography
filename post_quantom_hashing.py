@@ -14,7 +14,7 @@ Dependencies:
 - `pypqc` or `pqc` with `kyber512` (for PQC keypair)
 - `pycryptodome` (for cSHAKE256)
 
-(Included in the report)
+(Included in the repo)
 """
 
 import os
