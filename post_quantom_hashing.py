@@ -76,6 +76,5 @@ if __name__ == "__main__":
     pk, sk = ensure_keypair()
     alias = input("Enter alias: ")
     pwd = derive_password(alias, pk, sk)
-    
-    # Display the password
+
     print("\nPQ Password (hex):", pwd)
