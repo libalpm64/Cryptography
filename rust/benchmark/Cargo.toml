@@ -1,0 +1,12 @@
+[package]
+name = "hash_benchmark"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+blake3 = "1.8.2"
+xxhash-rust = { version = "0.8.15", features = ["xxh3"] }
+argon2 = "0.5.3"
+pbkdf2 = { version = "0.12", features = ["simple"] }
+rand_core = { version = "0.6", features = ["std"] }
+sha2 = "0.10.9"
