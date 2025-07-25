@@ -1,4 +1,6 @@
 # ⚠️ Cryptography Disclaimer & Legal Notice
+<img src="https://tokei.rs/b1/github/libalpm64/Cryptography?category=code&style=flat" alt="Lines of Code"/>
+
 
 This project implements **deterministic password derivation using post-quantum cryptographic techniques**.  
 It is intended for **educational, research, or personal use only**.
